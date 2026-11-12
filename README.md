@@ -4,7 +4,7 @@ Daniel Atzberger, [Tim Cech](https://orcid.org/0000-0001-8688-2419), [Adrian Job
 
 *Proceedings of the 17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - IVAPP (IVAPP '22)*, February 6–8, 2022, online. SciTePress, pp. 210–217.
 
-DOI: [10.5220/0010991100003124](https://doi.org/10.5220/0010991100003124) · Author's version: [Zenodo](https://doi.org/10.5281/zenodo.24121993) · [ResearchGate](https://www.researchgate.net/publication/358523984)
+[![Version of record: 10.5220/0010991100003124](https://img.shields.io/badge/Version_of_record-10.5220%2F0010991100003124-007ec6)](https://doi.org/10.5220/0010991100003124) [![Author's version: 10.5281/zenodo.24121993](https://img.shields.io/badge/Author%27s_version-10.5281%2Fzenodo.24121993-007ec6)](https://doi.org/10.5281/zenodo.24121993) · [ResearchGate](https://www.researchgate.net/publication/358523984)
 
 > In order to detect software risks at an early stage, various software visualization techniques have been developed for monitoring the structure, behaviour, or the underlying development process of software.
 > One of greatest risks for any IT organization consists in an inappropriate distribution of knowledge among its developers, as a projects' success mainly depends on assigning tasks to developers with the required skills and expertise.
